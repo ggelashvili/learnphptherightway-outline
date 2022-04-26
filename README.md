@@ -98,4 +98,5 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson 3.16 - Doctrine ORM - Entities & Data Mapper Pattern](https://youtu.be/P2PYrZGqhLU)
  - [Lesson 3.17 - Doctrine ORM Query Builder & DQL](https://youtu.be/awrtwSdwXHA)
  - [Lesson 3.18 - Doctrine Migrations](https://youtu.be/peXlH04Hecc)
+ - [Lesson 3.19 - Active Record Pattern & Intro To Laravel Eloquent](https://youtu.be/ZRdgVuIppYQ)
  - WIP
