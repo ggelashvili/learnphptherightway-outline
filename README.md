@@ -100,4 +100,5 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson 3.18 - Doctrine Migrations](https://youtu.be/peXlH04Hecc)
  - [Lesson 3.19 - Active Record Pattern & Intro To Laravel Eloquent](https://youtu.be/ZRdgVuIppYQ)
  - [Lesson 3.20 - Refactor to use Eloquent instead of Doctrine DBAL](https://youtu.be/aPXkO-ffkA8)
+ - [Lesson 3.21 - PHP cURL API Tutorial & Emailable API Integration](https://youtu.be/cbpWykgjGTI)
  - WIP
