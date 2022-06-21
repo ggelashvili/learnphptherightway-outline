@@ -102,4 +102,6 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson 3.20 - Refactor to use Eloquent instead of Doctrine DBAL](https://youtu.be/aPXkO-ffkA8)
  - [Lesson 3.21 - PHP cURL API Tutorial & Emailable API Integration](https://youtu.be/cbpWykgjGTI)
  - [Lesson 3.22 - Refactor cURL to Guzzle With Retry Logic - Multiple API Integrations](https://youtu.be/c2ZP2FxD5I0)
+ - [Lesson 3.23 - Data Transfer Objects - What Are DTOs](https://youtu.be/35QmeoPLPOQ)
+ - [Lesson 3.24 - Value Objects Practical Example](https://youtu.be/agIL1EUozhQ)
  - WIP
