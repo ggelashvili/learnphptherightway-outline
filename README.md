@@ -104,4 +104,5 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson 3.22 - Refactor cURL to Guzzle With Retry Logic - Multiple API Integrations](https://youtu.be/c2ZP2FxD5I0)
  - [Lesson 3.23 - Data Transfer Objects - What Are DTOs](https://youtu.be/35QmeoPLPOQ)
  - [Lesson 3.24 - Value Objects Practical Example](https://youtu.be/agIL1EUozhQ)
+ - [Lesson 3.25 - Intro to Templating Engines - Blade & Twig](https://youtu.be/MSH32ri-kBg)
  - WIP
