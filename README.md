@@ -105,4 +105,6 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson 3.23 - Data Transfer Objects - What Are DTOs](https://youtu.be/35QmeoPLPOQ)
  - [Lesson 3.24 - Value Objects Practical Example](https://youtu.be/agIL1EUozhQ)
  - [Lesson 3.25 - Intro to Templating Engines - Blade & Twig](https://youtu.be/MSH32ri-kBg)
+ - [Lesson 3.26 - How To Install Xdebug 3 with Docker & PhpStorm](https://youtu.be/7YuYxbYd3P0)
+ - [Lesson 3.27 - How To Deploy Vanilla PHP To Cloudways](https://youtu.be/78U5jLTLBbM)
  - WIP
