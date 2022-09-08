@@ -109,4 +109,6 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson 3.27 - How To Deploy Vanilla PHP To Cloudways](https://youtu.be/78U5jLTLBbM)
  - [Lesson 3.28 - Intro to Slim PHP Framework](https://youtu.be/wCZUD6LBdRg)
  - [Lesson 3.29 - Add DI Container & Doctrine ORM To Slim PHP Framework](https://youtu.be/pgYDzlXOYD4)
+ - [Lesson 3.30 - Little Refactoring Never Hurt Nobody](https://youtu.be/Pn-Kz6GXCKg)
+ - [Lesson 3.31 - Create & Run CLI Commands With Symfony Console](https://youtu.be/_62MNEOo1Fs)
  - WIP
