@@ -111,4 +111,9 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson 3.29 - Add DI Container & Doctrine ORM To Slim PHP Framework](https://youtu.be/pgYDzlXOYD4)
  - [Lesson 3.30 - Little Refactoring Never Hurt Nobody](https://youtu.be/Pn-Kz6GXCKg)
  - [Lesson 3.31 - Create & Run CLI Commands With Symfony Console](https://youtu.be/_62MNEOo1Fs)
+ - [Lesson 3.32 - 100th Video In This PHP Series - Project Overview](https://youtu.be/AtxZKob8IVQ)
+ 
+ # Section P - Project Expennies
+ 
+ - [Lesson P.0 - Expennies Project Setup - NPM & Webpack](https://youtu.be/RMpV5R8wNgw)
  - WIP
