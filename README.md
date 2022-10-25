@@ -119,4 +119,5 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson P.1 - Let's Do Some Data Modeling & Create Entities](https://youtu.be/pKXojbZ64c4)
  - [Lesson P.2 - User Registration & Password Hashing](https://youtu.be/TqXMaj2Z-GQ)
  - [Lesson P.3 - Add Form Validation](https://youtu.be/eJxIqV9UBC4)
+ - [Lesson P.4 - Flash Errors & Old Form Data To Session](https://youtu.be/y4sCssjSFIA)
  - WIP
