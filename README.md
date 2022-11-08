@@ -120,4 +120,7 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson P.2 - User Registration & Password Hashing](https://youtu.be/TqXMaj2Z-GQ)
  - [Lesson P.3 - Add Form Validation](https://youtu.be/eJxIqV9UBC4)
  - [Lesson P.4 - Flash Errors & Old Form Data To Session](https://youtu.be/y4sCssjSFIA)
+ - [Lesson P.5 - Session Based Authentication - Session Hijacking & Fixation](https://youtu.be/nJWmoetWP0k)
+ - [Lesson P.6 - Persist Authenticated User Object Throughout The Request](https://youtu.be/NhrbENvDlmQ)
+ - [Lesson P.7 - Refactor Sessions & Create Session Interface](https://youtu.be/l7JvyOk6Rl4)
  - WIP
