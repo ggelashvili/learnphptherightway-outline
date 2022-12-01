@@ -123,4 +123,7 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson P.5 - Session Based Authentication - Session Hijacking & Fixation](https://youtu.be/nJWmoetWP0k)
  - [Lesson P.6 - Persist Authenticated User Object Throughout The Request](https://youtu.be/NhrbENvDlmQ)
  - [Lesson P.7 - Refactor Sessions & Create Session Interface](https://youtu.be/l7JvyOk6Rl4)
+ - [Lesson P.8 - Sessions & Referrer URL Refactor](https://youtu.be/cNm9J72_iAk)
+ - [Lesson P.9 - Request Validation - Factory Design Pattern](https://youtu.be/GkL_w-MXrp8)
+ - [Lesson P.10 - CSRF Explained - What Is Cross Site Request Forgery](https://youtu.be/8WzOx3knSCU)
  - WIP
