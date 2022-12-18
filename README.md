@@ -127,4 +127,5 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson P.9 - Request Validation - Factory Design Pattern](https://youtu.be/GkL_w-MXrp8)
  - [Lesson P.10 - CSRF Explained - What Is Cross Site Request Forgery](https://youtu.be/8WzOx3knSCU)
  - [Lesson P.11 - XSS Explained - What Is Cross Site Scripting](https://youtu.be/gPU_jyKDYx0)
+ - [Lesson P.12 - Let's Build CRUD Actions For Categories](https://youtu.be/kITCm6nTepU)
  - WIP
