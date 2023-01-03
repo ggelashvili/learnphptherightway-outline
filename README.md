@@ -128,4 +128,7 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson P.10 - CSRF Explained - What Is Cross Site Request Forgery](https://youtu.be/8WzOx3knSCU)
  - [Lesson P.11 - XSS Explained - What Is Cross Site Scripting](https://youtu.be/gPU_jyKDYx0)
  - [Lesson P.12 - Let's Build CRUD Actions For Categories](https://youtu.be/kITCm6nTepU)
+ - [Lesson P.13 - First Ajax Request](https://youtu.be/fDC9b9tDmNo)
+ - [Lesson P.14 - POST Ajax Request & CSRF Fields](https://youtu.be/BsM3KQpr40w)
+ - [Lesson P.15 - Ajax Request Validation](https://youtu.be/Cb_AhMWkAJo)
  - WIP
