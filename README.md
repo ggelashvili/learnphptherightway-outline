@@ -131,4 +131,5 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson P.13 - First Ajax Request](https://youtu.be/fDC9b9tDmNo)
  - [Lesson P.14 - POST Ajax Request & CSRF Fields](https://youtu.be/BsM3KQpr40w)
  - [Lesson P.15 - Ajax Request Validation](https://youtu.be/Cb_AhMWkAJo)
+ - [Lesson P.16 - Display Errors Using JavaScript & Bootstrap](https://youtu.be/wFrd9g2kilY)
  - WIP
