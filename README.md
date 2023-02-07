@@ -133,4 +133,6 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson P.15 - Ajax Request Validation](https://youtu.be/Cb_AhMWkAJo)
  - [Lesson P.16 - Display Errors Using JavaScript & Bootstrap](https://youtu.be/wFrd9g2kilY)
  - [Lesson P.17 - DataTables & Pagination](https://youtu.be/KadKI3jQwzI)
+ - [Lesson P.18 - How To Securely Implement Sorting & Filtering](https://youtu.be/LqygRNhemRw)
+ - [Lesson P.19 - Transactions CRUD Exercise Overview](https://youtu.be/Kd8OO0VTYu0)
  - WIP
