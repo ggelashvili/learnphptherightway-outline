@@ -135,4 +135,5 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson P.17 - DataTables & Pagination](https://youtu.be/KadKI3jQwzI)
  - [Lesson P.18 - How To Securely Implement Sorting & Filtering](https://youtu.be/LqygRNhemRw)
  - [Lesson P.19 - Transactions CRUD Exercise Overview](https://youtu.be/Kd8OO0VTYu0)
+ - [Lesson P.20 - Upload Transaction Receipts With Proper File Validation](https://youtu.be/PgNZ_l5oAZA)
  - WIP
