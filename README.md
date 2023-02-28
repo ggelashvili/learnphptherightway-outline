@@ -136,4 +136,5 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson P.18 - How To Securely Implement Sorting & Filtering](https://youtu.be/LqygRNhemRw)
  - [Lesson P.19 - Transactions CRUD Exercise Overview](https://youtu.be/Kd8OO0VTYu0)
  - [Lesson P.20 - Upload Transaction Receipts With Proper File Validation](https://youtu.be/PgNZ_l5oAZA)
+ - [Lesson P.21 - Open Transaction Receipt Files](https://youtu.be/ZDxGP-zkLd4)
  - WIP
