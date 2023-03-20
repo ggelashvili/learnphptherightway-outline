@@ -138,4 +138,5 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson P.20 - Upload Transaction Receipts With Proper File Validation](https://youtu.be/PgNZ_l5oAZA)
  - [Lesson P.21 - Open Transaction Receipt Files](https://youtu.be/ZDxGP-zkLd4)
  - [Lesson P.22 - Import Transactions Exercise Solution Overview](https://youtu.be/S2tWD9vhOgA)
+ - [Lesson P.23 - Profiling for N+1 Queries](https://youtu.be/LyK7fy-DR-w)
  - WIP
