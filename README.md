@@ -140,5 +140,5 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson P.22 - Import Transactions Exercise Solution Overview](https://youtu.be/S2tWD9vhOgA)
  - [Lesson P.23 - Profiling for N+1 Queries](https://youtu.be/LyK7fy-DR-w)
  - [Lesson P.24 - Reduce Memory Consumption & Speed Up Imports](https://youtu.be/V0lFoOK6Vus)
- - [Lesson P.25 - Toggle Transaction Review Status - Minor Refactoring](https://youtu.be/lCdUXcY8-hY)
+ - [Lesson P.26 - Decorating Entity Manager to Avoid Inheritance](https://youtu.be/I3TNs4uyOpQ)
  - WIP
