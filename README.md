@@ -142,4 +142,6 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson P.24 - Reduce Memory Consumption & Speed Up Imports](https://youtu.be/V0lFoOK6Vus)
  - [Lesson P.25 - Toggle Transaction Review Status - Minor Refactoring](https://youtu.be/lCdUXcY8-hY)
  - [Lesson P.26 - Decorating Entity Manager to Avoid Inheritance](https://youtu.be/I3TNs4uyOpQ)
+ - [Lesson P.27 - Implement Route Model Binding With Slim](https://youtu.be/k5yIm9WxZ-U)
+ - [Lesson P.28 - Implement Authorization Using Doctrine Filters](https://youtu.be/DHi3HFp3f54)
  - WIP
