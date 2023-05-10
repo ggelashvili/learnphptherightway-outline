@@ -144,4 +144,5 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson P.26 - Decorating Entity Manager to Avoid Inheritance](https://youtu.be/I3TNs4uyOpQ)
  - [Lesson P.27 - Implement Route Model Binding With Slim](https://youtu.be/k5yIm9WxZ-U)
  - [Lesson P.28 - Implement Authorization Using Doctrine Filters](https://youtu.be/DHi3HFp3f54)
+ - [Lesson P.29 - Set Up Email Verification For New Users](https://youtu.be/D1Ab-iP8Ra0)
  - WIP
