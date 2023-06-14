@@ -145,4 +145,7 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson P.27 - Implement Route Model Binding With Slim](https://youtu.be/k5yIm9WxZ-U)
  - [Lesson P.28 - Implement Authorization Using Doctrine Filters](https://youtu.be/DHi3HFp3f54)
  - [Lesson P.29 - Set Up Email Verification For New Users](https://youtu.be/D1Ab-iP8Ra0)
+ - [Lesson P.30 - Secure User Verification Using Signed URLs](https://youtu.be/65VvTORx_nA)
+ - [Lesson P.31 - Send Two-Factor Auth Code Via Email](https://youtu.be/g8uGnIMe_rM)
+ - [Lesson P.32 - Implement Two-Factor Authentication Via Email](https://youtu.be/LVS6D-a0-hE)
  - WIP
