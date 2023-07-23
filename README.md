@@ -148,4 +148,8 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson P.30 - Secure User Verification Using Signed URLs](https://youtu.be/65VvTORx_nA)
  - [Lesson P.31 - Send Two-Factor Auth Code Via Email](https://youtu.be/g8uGnIMe_rM)
  - [Lesson P.32 - Implement Two-Factor Authentication Via Email](https://youtu.be/LVS6D-a0-hE)
+ - [Lesson P.33 - Implement Forgot Password Functionality](https://youtu.be/sSvJOV4zNMc)
+ - [Lesson P.34 - Implementing Caching with Redis](https://youtu.be/UE6IJH1ZJ6Y)
+ - [Lesson P.35 - Implementing Rate Limiting](https://youtu.be/AK7zMkrLZEI)
+ - [Lesson P.36 - Uploading Files to S3 Bucket](https://youtu.be/wcAPyNVzpYk)
  - WIP
