@@ -154,4 +154,3 @@ The series is up to date with PHP version 8.1. I will try my best to keep this s
  - [Lesson P.36 - Uploading Files to S3 Bucket](https://youtu.be/wcAPyNVzpYk)
  - [Lesson P.37 - Final Exercise - Building Back-End For Dashboard](https://youtu.be/hokcG036GYY)
  - [Lesson P.38 - Deploy Expennies To Production Using Laravel Forge](https://youtu.be/TXf5sn-29Mo)
- - WIP
